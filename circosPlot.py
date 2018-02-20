@@ -1,5 +1,6 @@
 # Import necessary modules
 import matplotlib.pyplot as plt
+
 from nxviz import CircosPlot
 from NetworkAnalysis import NetworkTwitter as T
 
